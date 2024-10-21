@@ -1,0 +1,11 @@
+{
+  "_id": { "$oid": "6712bb4b42d16b4a15d38786" },
+  "day": "05",
+  "name": "Hot Deal This Week",
+  "offer": "New Collection Up to 40% OFF",
+  "image": "https://firebasestorage.googleapis.com/v0/b/dream-buy-9fe44.appspot.com/o/deals%2Fimages%2FH2c8da09a7ded4c4699ba074c08dcf77cs.jpg_720x720q50.webp?alt=media&token=7e2a7ce9-825d-4e7a-8703-9c78ad4e016d",
+  "video": "https://firebasestorage.googleapis.com/v0/b/dream-buy-9fe44.appspot.com/o/deals%2Fvideos%2F20230703_69b40f0fb470ea00_418204839305_mp4_264_hd_unlimit_taobao.mp4?alt=media&token=bf64df69-1be7-4b3e-9ad9-c4c7618dc8eb",
+  "link": "https://resonant-bonbon-f6dc6a.netlify.app/Product/670b6c8f4c182fb08a29eaaf",
+  "endTime": { "$date": { "$numberLong": "1729708748298" } },
+  "updateDate": "10/12/2024 05:20:45 PM"
+}

@@ -31,10 +31,6 @@ const MyOrder = lazy(() => import('../pages/Dashboard/User/MyOrder/MyOrder'));
 const Banners = lazy(() => import('../pages/Dashboard/Admin/Banners/Banners'));
 const NotAvailable = lazy(() => import('../pages/Dashboard/NotAvailable/NotAvailable'));
 
-import ReactGA from 'react-ga4';
-
-ReactGA.initialize('your GA measurement id');
-
 export const router = createBrowserRouter([
   {
     path: '/',

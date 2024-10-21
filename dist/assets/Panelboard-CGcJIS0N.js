@@ -1,0 +1,2 @@
+const __vite__fileDeps=["assets/TopPanel-CTTJY8ML.js","assets/index-B5pvZNP2.js","assets/index-Ln90zs0o.css","assets/hoverFilter-pthvAAF0.js"],__vite__mapDeps=i=>i.map(i=>__vite__fileDeps[i]);
+import{r as e,_ as a,j as s,L as r}from"./index-B5pvZNP2.js";const t=e.lazy(()=>a(()=>import("./TopPanel-CTTJY8ML.js"),__vite__mapDeps([0,1,2,3]))),n=()=>s.jsx("section",{className:"m-[1rem] text-sm",children:s.jsx(e.Suspense,{fallback:s.jsx(r,{}),children:s.jsx(t,{})})});export{n as default};
