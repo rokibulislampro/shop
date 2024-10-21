@@ -1,0 +1,5 @@
+input,select:focus {
+  background-color: white !important;
+  outline: none;
+}
+

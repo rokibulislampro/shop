@@ -1,0 +1,17 @@
+label, p {
+  font-size: small;
+  margin-bottom: 5px;
+}
+input, textarea {
+  border-color: none;
+  font-size: smaller;
+}
+
+input,select:focus {
+  background-color: #f0f2f2f0 !important;
+  outline: none;
+}
+textarea:focus {
+  background-color: #f0f2f2f0 !important;
+  outline: none;
+}
