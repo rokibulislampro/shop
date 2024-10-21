@@ -10,6 +10,6 @@ npm install
 
 npm run dev
 
-DreamBuy-Client- (https://github.com/rokibulislam101/DreamBuy-Client),
+DreamBuy-Client- (https://github.com/rokibulislampro/bondonbd-frontend),
 
 DreamBuy Live Site- (https://bondonbd.com).
